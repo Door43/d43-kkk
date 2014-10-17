@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kkk:home|Door43 (kkk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kkk|d43-kkk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kkk/archive/master.zip|d43-kkk.zip]]
+
+**Recent Changes**
+{{changes>ns = kkk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kkk|Ethnologue data]]
+
